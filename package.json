@@ -1,6 +1,6 @@
 {
   "name": "node-adyen-encrypt",
-  "version": "1.1.0",
+  "version": "1.24.0",
   "description": "Adyen encryption for Node.js.",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dmop/node-adyen-encrypt.git"
+    "url": "git+https://github.com/KompiTech/node-adyen-encrypt.git"
   },
   "keywords": [
     "Adyen",
